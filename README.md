@@ -12,12 +12,9 @@
 <br>
 
 
-  <!-- Activity Graph -->
-  <section align="center">
-         <h1> </h1>
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=miguelacaceresrios&theme=github-dark" alt="Activity Graph" />
-  </a>
+<p align = "center">
+	<img src = "https://komarev.com/ghpvc/?username=10kartik&style=plastic&color=blueviolet" alt = "Profile Views"/>
+</p>
 
 
 ✔ SI TE ENCANTA LA SERIE DE BREIKING BAD ERES DE LOS MIOS<br>
