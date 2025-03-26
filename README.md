@@ -17,7 +17,7 @@
 
 
 
-✔ SI TE ENCANTA LA SERIE DE BREIKING BAD ERES DE LOS MIOS 
+✔ SI TE ENCANTA LA SERIE DE BREIKING BAD ERES DE LOS MIOS<br>
 ✔ [escribire algo cuando cuando sepa que ]<br>
 ✔ [escribire algo cuando cuando sepa que ]<br>
 ✔ [escribire algo cuando cuando sepa que ]<br>
