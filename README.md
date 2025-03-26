@@ -24,6 +24,6 @@
 ### Canal Discord: MOP
 <div align="center">
 <img alt="dsmark" align="center" height="70px" width="70px" src="https://c.tenor.com/cXlrPENTVkEAAAAi/chika-dance.gif">
- <b> [MOP](https://discord.gg/fF3Ngp4Y):<img alt="dsmark" align="center" height="70px" width="70px" src="https://c.tenor.com/cXlrPENTVkEAAAAi/chika-dance.gif">
+ <b> [MOP][https://discord.gg/fF3Ngp4Y](https://discord.gg/vmawvWYWeb):<img alt="dsmark" align="center" height="70px" width="70px" src="https://c.tenor.com/cXlrPENTVkEAAAAi/chika-dance.gif">
  
 
