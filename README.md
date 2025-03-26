@@ -11,9 +11,13 @@
 </div>
 <br>
 
-[![a.webp](https://i.postimg.cc/7ZMmj0Ss/a.webp)](https://postimg.cc/pmrfF9Gz)
 
-
+  <!-- Activity Graph -->
+  <section align="center">
+         <h1> </h1>
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=miguelacaceresrios&theme=github-dark" alt="Activity Graph" />
+  </a>
 
 
 ✔ SI TE ENCANTA LA SERIE DE BREIKING BAD ERES DE LOS MIOS<br>
