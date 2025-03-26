@@ -1,7 +1,6 @@
 # <div align="center"><img alt="dsmark" height="37px" width="40px" src="https://camo.githubusercontent.com/c80452cb2661014b6e7b442887b55fc3cae98a7d2c25346af5c503655afa14bf/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3235362f76697375616c2d73747564696f2d636f64652d333235313630332d323732343635302e706e673f7261773d74727565"></img> HOLA SOY EYNOR , <img alt="Hola" height="30px" width="40px" src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/ghost_1f47b.png"></img>
 
-</div>
-<img src="[96e75782d69636f6e2e737667](https://www.pngall.com/wp-content/uploads/5/Linux-Logo-PNG-Free-Download.png)" width="30px">&nbsp;***About me ....***
+
 
 ✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
 ✔ I’m currently Developing a youtube spam comments filtering tool for **Sinhala language**<br>
