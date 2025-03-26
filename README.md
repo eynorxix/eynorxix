@@ -17,7 +17,7 @@
 
 
 
-✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
+✔ SI TE ENCANTA LA SERIE DE BREIKING BAD ERES DE LOS MIOS 
 ✔ [escribire algo cuando cuando sepa que ]<br>
 ✔ [escribire algo cuando cuando sepa que ]<br>
 ✔ [escribire algo cuando cuando sepa que ]<br>
