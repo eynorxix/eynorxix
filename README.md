@@ -14,4 +14,9 @@
   <p align="center">
   <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
-
+  <br>
+<div align="center">
+<img alt="dsmark" height="50px" width="70px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/docomo/205/ghost_1f47b.png">
+<img alt="dsmark" height="50px" width="70px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/docomo/205/ghost_1f47b.png">
+<img alt="dsmark" height="50px" width="70px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/docomo/205/ghost_1f47b.png">
+</div>
