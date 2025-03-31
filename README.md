@@ -14,10 +14,9 @@
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
 </div>
 <br>
-
 <div align="center">
-![2a8b6d58b781dae308a3ac2040506c66](https://github.com/user-attachments/assets/19d1a5fa-c2f4-494c-9c59-aac88f716343)
-
+    ![2a8b6d58b781dae308a3ac2040506c66](https://github.com/user-attachments/assets/19d1a5fa-c2f4-494c-9c59-aac88f716343)
+</div>
 
 
 
