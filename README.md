@@ -14,11 +14,11 @@
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
 </div>
 <br>
-![Uploading 2a8b6d58b781dae308a3ac2040506c66.gif…]()
 
 
 
-	<img src = "  ![2a8b6d58b781dae308a3ac2040506c66](https://github.com/user-attachments/assets/db7c005c-b141-454b-8137-aeb187ee23b5) " alt = "Snake Game"/>
+
+	<img src = "   " alt = ""/>
 </p>
 
 <div align="center">
