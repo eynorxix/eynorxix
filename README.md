@@ -4,7 +4,7 @@
 
 
 
-# <div align="center"><img alt="dsmark" height="37px" width="40px" src="https://camo.githubusercontent.com/c80452cb2661014b6e7b442887b55fc3cae98a7d2c25346af5c503655afa14bf/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3235362f76697375616c2d73747564696f2d636f64652d333235313630332d323732343635302e706e673f7261773d74727565"></img> HOLA SOY EYNOR <img alt="Hola" height="30px" width="40px" src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/ghost_1f47b.png"></img>
+# <div align="center"><img alt="dsmark" height="37px" width="40px" src="https://camo.githubusercontent.com/c80452cb2661014b6e7b442887b55fc3cae98a7d2c25346af5c503655afa14bf/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3235362f76697375616c2d73747564696f2d636f64652d333235313630332d323732343635302e706e673f7261773d74727565"></img> HOLA SOY EYNOR <img alt="Hola" height="30px" width="40px" src="https://tenor.com/es/view/invincible-edit-pfp-blue-suit-gif-1664067580678669298"></img>
 
 <h3 align="center">APRENDIENDO HA PROGRAMAR XD</h3>
 
