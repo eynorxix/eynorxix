@@ -16,10 +16,8 @@
 <br>
 
 
-<img src="![2a8b6d58b781dae308a3ac2040506c66](https://github.com/user-attachments/assets/807fe961-da20-47ca-bf75-cce7713f977d)
-" alt="Descripción del GIF" width="500">
+![2a8b6d58b781dae308a3ac2040506c66](https://github.com/user-attachments/assets/19d1a5fa-c2f4-494c-9c59-aac88f716343)
 
-<div align="center">
 
 
 
