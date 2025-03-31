@@ -17,7 +17,8 @@
 
 
 gn = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+	<img src = "![Uploading 2a8b6d58b781dae308a3ac2040506c66.gif…]()
+" alt = "Snake Game"/>
 </p>
 
 <div align="center">
