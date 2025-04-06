@@ -20,7 +20,7 @@
 
 <div align="center">
 <br>
-✔ [escribire algo cuando cuando sepa que ]<br>
+✔ [ voy en el proceso de aprender python ]<br>
 ✔ [escribire algo cuando cuando sepa que ]<br>
 ✔ [escribire algo cuando cuando sepa que ]<br>
 
