@@ -20,9 +20,6 @@
 
 <div align="center">
 <br>
-
-  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-✔ [escribire algo cuando cuando sepa que ]<br>
 ✔ [escribire algo cuando cuando sepa que ]<br>
 ✔ [escribire algo cuando cuando sepa que ]<br>
 ✔ [escribire algo cuando cuando sepa que ]<br>
