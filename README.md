@@ -36,11 +36,22 @@
       Bienvenido a mi perfil de GitHub. Aquí encontrarás proyectos que mezclan creatividad, código y un toque de locura. Me encanta experimentar con nuevas tecnologías, automatizar lo imposible y compartir ideas que brillan con luz propia 💡.
     </p>
   </div>
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; padding: 20px; background-color: #f8f8f8; border: 4px solid #333; border-radius: 15px; max-width: 600px; margin: auto;">
+  
+  <div style="border: 2px solid #ccc; border-radius: 10px; padding: 5px; background-color: #fff;">
+    <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3djh4dDB3YWtnempoN2RobmszdG5rdTZvNHI1emliaWlrYXB5cGN2dSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/oVREpe8qWMOqc/giphy.gif" alt="GIF 1" style="width: 100%; border-radius: 8px;">
+  </div>
+
+  <div style="border: 2px solid #ccc; border-radius: 10px; padding: 5px; background-color: #fff;">
+    <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Z3Q5dXE5Y3FrbjUxcjR6dGY2cnByeHo3OGhiNmZuZmJuMjUxN3Z3bCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/hIXy8waKP9HMc/giphy.gif" alt="GIF 2" style="width: 100%; border-radius: 8px;">
+  </div>
+
+  <div style="border: 2px solid #ccc; border-radius: 10px; padding: 5px; background-color: #fff;">
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTlodTJjdWhyM3RzZXl1c2Eza2d0Y2I3NWVsdHVybDJydWp4YTdidSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12A2hq8FMIY63e/giphy.gif" alt="GIF 3" style="width: 100%; border-radius: 8px;">
+  </div>
+
 </div>
 
-    EYNOR
-  </h1>
-</div>
 
 
 ![Cool GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTlodTJjdWhyM3RzZXl1c2Eza2d0Y2I3NWVsdHVybDJydWp4YTdidSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12A2hq8FMIY63e/giphy.gif)
