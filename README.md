@@ -27,22 +27,17 @@
 ![Cool GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXdrZXozMjByemRiMmhueXJ2NnZ0a3hudXVsYXZwMWpsMmU0ZXZ5NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YZX4FWwOJTK5W/giphy.gif)
 
 
-<div align="center">
-  <h1 style="
-    font-family: 'Arial Black', Gadget, sans-serif;
-    font-size: 60px;
-    color: #00ffff;
-    text-shadow: 0 0 5px #00ffff,
-                 0 0 10px #00ffff,
-                 0 0 20px #00ffff,
-                 0 0 40px #0ff,
-                 0 0 80px #0ff;
-    border: 4px solid #00ffff;
-    border-radius: 20px;
-    padding: 20px;
-    display: inline-block;
-    background-color: #000000;
-  ">
+<div style="display: flex; align-items: center; gap: 20px;">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzlxMjV4ZGxtZHNhZm42eWZ4NmZhazViZDIwbnN2d3NhOXJwOWJ2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gV0lvve9qDk9W/giphy.gif" alt="Animated GIF" width="150" style="border-radius: 10px;">
+  
+  <div>
+    <h2 style="margin: 0; font-family: 'Segoe UI', sans-serif; color: #00ffff;">¡Hola, soy EYNOR!</h2>
+    <p style="font-size: 16px; color: #ccc; max-width: 400px;">
+      Bienvenido a mi perfil de GitHub. Aquí encontrarás proyectos que mezclan creatividad, código y un toque de locura. Me encanta experimentar con nuevas tecnologías, automatizar lo imposible y compartir ideas que brillan con luz propia 💡.
+    </p>
+  </div>
+</div>
+
     EYNOR
   </h1>
 </div>
