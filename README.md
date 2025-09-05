@@ -39,7 +39,8 @@
 ⢸⠀⡟⠀⢸⡆⢹⡜⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⠋⣾⡏⡇⡎⡇⠀⡇
 ⢸⠀⢃⡆⠀⢿⡄⠑⢽⣄⠀⠀⠀⢀⠂⠠⢁⠈⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⠀⠄⡐⢀⠂⠀⠀⣠⣮⡟⢹⣯⣸⣱⠁⠀⡇
 ⠈⠉⠉⠉⠉⠉⠉⠉⠉⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠉⠉⠉⠉⠉⠉⠉⠁
-![Funny GIF]("https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTlodTJjdWhyM3RzZXl1c2Eza2d0Y2I3NWVsdHVybDJydWp4YTdidSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12A2hq8FMIY63e/giphy.gif")
+
+![Cool GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTlodTJjdWhyM3RzZXl1c2Eza2d0Y2I3NWVsdHVybDJydWp4YTdidSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12A2hq8FMIY63e/giphy.gif)
 
 ### Canal Discord: MOP
 <div align="center">
