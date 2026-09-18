@@ -6,13 +6,14 @@
     <a href="https://eynorxix.github.io/tox-forum/#foro/g">FORO DEMO ENLACE A DIRECCION URL</a>
 </div>
 
-/*<div align="center">
+<!---
+<div align="center">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
 </div>
 <br>
-*/
+--->
 
 
 
