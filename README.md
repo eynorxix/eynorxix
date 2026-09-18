@@ -7,7 +7,7 @@ se me une en una imagen y otra y no quiero quiero que se separen destruye el htm
 </div>
 
 <div class="NoImporta">
-    <a href="https://eynorxix.github.io/tox-forum/g">FORO DEMO ENLACE A DIRECCION URL</a>
+    <a href="https://eynorxix.github.io/tox-forum/">FORO DEMO ENLACE A DIRECCION URL</a>
 </div>
 
 
