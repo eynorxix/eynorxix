@@ -27,38 +27,6 @@
 ![Cool GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXdrZXozMjByemRiMmhueXJ2NnZ0a3hudXVsYXZwMWpsMmU0ZXZ5NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YZX4FWwOJTK5W/giphy.gif)
 
 
-<div style="display: flex; align-items: center; gap: 20px;">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzlxMjV4ZGxtZHNhZm42eWZ4NmZhazViZDIwbnN2d3NhOXJwOWJ2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gV0lvve9qDk9W/giphy.gif" alt="Animated GIF" width="150" style="border-radius: 10px;">
-  
-  <div>
-    <h2 style="margin: 0; font-family: 'Segoe UI', sans-serif; color: #00ffff;">¡Hola, soy EYNOR!</h2>
-    <p style="font-size: 16px; color: #ccc; max-width: 400px;">
-      Bienvenido a mi perfil de GitHub. Aquí encontrarás proyectos que mezclan creatividad, código y un toque de locura. Me encanta experimentar con nuevas tecnologías, automatizar lo imposible y compartir ideas que brillan con luz propia 💡.
-    </p>
-  </div>
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; padding: 20px; background-color: #f8f8f8; border: 4px solid #333; border-radius: 15px; max-width: 600px; margin: auto;">
-  
-  <div style="border: 2px solid #ccc; border-radius: 10px; padding: 5px; background-color: #fff;">
-    <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3djh4dDB3YWtnempoN2RobmszdG5rdTZvNHI1emliaWlrYXB5cGN2dSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/oVREpe8qWMOqc/giphy.gif" alt="GIF 1" style="width: 100%; border-radius: 8px;">
-  </div>
 
-  <div style="border: 2px solid #ccc; border-radius: 10px; padding: 5px; background-color: #fff;">
-    <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Z3Q5dXE5Y3FrbjUxcjR6dGY2cnByeHo3OGhiNmZuZmJuMjUxN3Z3bCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/hIXy8waKP9HMc/giphy.gif" alt="GIF 2" style="width: 100%; border-radius: 8px;">
-  </div>
-
-  <div style="border: 2px solid #ccc; border-radius: 10px; padding: 5px; background-color: #fff;">
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTlodTJjdWhyM3RzZXl1c2Eza2d0Y2I3NWVsdHVybDJydWp4YTdidSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12A2hq8FMIY63e/giphy.gif" alt="GIF 3" style="width: 100%; border-radius: 8px;">
-  </div>
-
-</div>
-
-
-
-![Cool GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTlodTJjdWhyM3RzZXl1c2Eza2d0Y2I3NWVsdHVybDJydWp4YTdidSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12A2hq8FMIY63e/giphy.gif)
-
-### Canal Discord: MOP
-<div align="center">
-<img alt="dsmark" align="center" height="70px" width="70px" src="https://c.tenor.com/cXlrPENTVkEAAAAi/chika-dance.gif">
- <b> [MOP]: (https://tenor.com/ngixrcBcrAH.gif):<img alt="dsmark" align="center" height="70px" width="70px" src="https://c.tenor.com/cXlrPENTVkEAAAAi/chika-dance.gif">
  
 
